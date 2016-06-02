@@ -1,2 +1,2 @@
 # 3D-Swimming-Behavior
-Code and protocols for Mooney Lab 3D Swimming Behavior System
+Code and protocols for Mooney Lab 3D swimming behavior system
